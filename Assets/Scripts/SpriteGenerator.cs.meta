@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81a37b268152128458e7dd049ddafbe5
+timeCreated: 1482264016
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pixelPrefab: {fileID: 1000010519806220, guid: 472463a30f5f666438c93112c6596f7d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,8 @@
+Temp
+Library
+Build
+*.csproj
+*.sln
+*.userprefs
+sh.exe.stackdump
+obj/Debug
